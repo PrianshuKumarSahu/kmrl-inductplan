@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+supabase
+python-jose[cryptography]
+python-multipart
+ortools
+scikit-learn
+xgboost
+pandas
+numpy
+reportlab
+httpx
+python-dotenv
+pydantic
+pydantic-settings
+aiofiles
